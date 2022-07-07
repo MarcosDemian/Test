@@ -15,7 +15,7 @@
     </div>
 
     <div class="title-container">
-      <img class="image" src="./assets/chabon.png" >
+      <img class="image" src="./assets/hombre.png" >
       <div class="text-container">
         <h5>Estado de tareas</h5>
         <p>Guia estado de tareas ˅</p>
