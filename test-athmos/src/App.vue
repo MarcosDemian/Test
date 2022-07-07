@@ -72,11 +72,7 @@ export default {
   data(){
     return {
       todos: [
-        {
-          id: 0,
-          title:  'Comienza a añadir tareas',
-          completed: false
-        }
+        {}
       ],
       copyTodos: []
     }
